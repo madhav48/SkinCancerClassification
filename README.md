@@ -5,4 +5,4 @@ This repo aims to classify skin cancer images into its various types. I have use
     - I have used b3 model of efficientNet as it matches best to the given data size and complexity..
     - SkinCancerClassification1.ipynb
    
-- Further for the loss function, I have used the CrossEntropyLoss function to calculate. We can use other criterions also to improve recall score..
+Further for the loss function, I have used the CrossEntropyLoss function to calculate. We can use other criterions also to improve recall score..
