@@ -76,9 +76,3 @@ Implementation: SkinCancerClassification1.ipynb
 - Self-Supervised Learning: Leverage semi-supervised techniques for improved feature extraction.
 
 
-## Acknowledgments
-- Thanks to open-source contributors for datasets and pre-trained models.
-- Inspired by research in AI-powered dermatology for medical applications.
-- Aiming to bridge the gap between deep learning and healthcare diagnostics.
-
-For feedback, contributions, or discussions, open an issue or create a pull request.
